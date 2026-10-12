@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,35,45&height=200&section=header&text=Привет,%20мир!%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 # 💫 About Me
 
 ### Привет! 👋 Я разработчик, аналитик данных и будущий студент
