@@ -30,4 +30,4 @@
 ---
 
 ### 📬 Контакты
-- **GitHub:** [Твой профиль](https://github.com/)
+- **GitHub:** [MrSherJp](https://github.com/MrSherJp/MrSherJp)
