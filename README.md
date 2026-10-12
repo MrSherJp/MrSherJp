@@ -1,47 +1,60 @@
-# Привет, я MrSherJp 👋
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,35,45&height=200&section=header&text=Привет,%20я%20MrSherJp!%20✨&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38)
 
-<p>
-  <b>Data Analyst | Frontend Developer | Future Data Scientist & Cybersecurity Student (Class of 2027)</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Frontend+Developer;Future+Data+Scientist+%26+Cybersecurity;Student+Class+of+2027+%F0%9F%8E%93;Passionate+about+AI+%26+Big+Data+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 ---
 
-## 💫 Обо мне
+### 💫 About Me
 
-Разработчик, аналитик данных и будущий студент. Активно работаю с информацией, создаю современные веб-приложения и интерфейсы, а также углубленно изучаю **Data Science**, **бизнес-аналитику** и **кибербезопасность**.
+> 🚀 **Разработчик, аналитик данных и будущий студент**
+> 
+> Я активно работаю с данными, создаю современные веб-приложения и интерфейсы, а также углубленно изучаю **Data Science**, **бизнес-аналитику** и **кибербезопасность**.
 
 ---
 
-## 🚀 Текущий фокус и направления
+### 🚀 Чем я занимаюсь прямо сейчас
 
 | 📊 Аналитика & Данные | 💻 Веб-разработка |
 | :--- | :--- |
-| • Сбор, обработка и визуализация массивов данных<br>• Работа со структурированными датасетами<br>• Исследование алгоритмов и базовых ML-моделей | • Создание интерфейсных компонентов (HTML, CSS, JS, DOM)<br>• Интеграция REST API (проект **NovaPanel**)<br>• Разработка пользовательских веб-приложений |
+| 🔍 **Сбор & Анализ:** Обработка и визуализация массивов информации | 🎨 **UI/UX Components:** HTML5, CSS3, JavaScript, DOM |
+| 🗄 **Датасеты:** Работа со структурами и БД | 🔌 **API Integration:** Интеграция REST API (проект **NovaPanel**) |
+| 🤖 **Machine Learning:** Алгоритмы и базовые ML-модели | 🌐 **Web Apps:** Разработка пользовательских приложений |
 
 | 📚 Академический фокус | 🌐 Языки & Навыки |
 | :--- | :--- |
-| • Углубленная математика и биология<br>• Окончание школы в **2027 году**<br>• Подготовка к поступлению в ВУЗ | • Академический английский (подготовка к **IELTS**)<br>• Системное и аналитическое мышление<br>• Базовая кибербезопасность |
+| 📐 **Науки:** Углубленная математика и биология | 🇬🇧 **English:** Академический уровень (подготовка к **IELTS**) |
+| 🎓 **Graduation:** Заканчиваю школу в **2027 году** | 🧠 **Thinking:** Аналитический и системный подход |
+| 🏛 **University:** Активная подготовка к поступлению | 🛡 **Cybersecurity:** Основы защиты систем и сетей |
 
 ---
 
-## 🛠 Технологический стек
+### 🛠 Мой стек и инструменты
 
-* **Языки программирования:** Python, JavaScript
-* **Анализ данных & Наука:** Pandas, NumPy
-* **Веб-технологии:** HTML5, CSS3, DOM API
-* **Инструменты & Среда:** Git, GitHub, VS Code, Linux, Bash, Postman
+[![My Skills](https://skillicons.dev/icons?i=py,pandas,numpy,html,css,js,git,github,vscode,linux,bash,postman&perline=12)](https://skillicons.dev)
 
 ---
 
-## 🎯 Планы и цели
+### 📈 GitHub Статистика
 
-* **2027:** Поступление в университет по направлениям *Data Analytics / Business Analysis / Cybersecurity*.
-* **Data Science:** Глубокое погружение в машинное обучение, нейросети и Big Data.
-* **Open Source:** Участие в международных проектах и профильных IT-инициативах.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSherJp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSherJp&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MrSherJp&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📬 Контакты
+### 🎯 Планы и цели на будущее
 
-* **GitHub:** [github.com/MrSherJp](https://github.com/MrSherJp)
-* **Email:** [anushervon1999ibragimov@gmail.com](mailto:anushervon1999ibragimov@gmail.com)
+* 🎓 **2027 год:** Поступление в ВУЗ (*Data Analytics / Business Analysis / Cybersecurity*)
+* 🔬 **Data Science:** Глубокое погружение в машинное обучение, нейросети и Big Data
+* 🌐 **Open Source:** Участие в международных проектах и IT-инициативах
+
+---
+
+### 📬 Контакты и связи
+
+[![GitHub](https://img.shields.io/badge/GitHub-MrSherJp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSherJp)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushervon1999ibragimov@gmail.com)
+
+---
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,35,45&height=100&section=footer)
