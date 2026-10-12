@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+%7C+Frontend+Developer;Future+Data+Scientist+%26+Cybersecurity;Student+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Frontend+Developer;Future+Data+Scientist+%26+Cybersecurity;Student+Class+of+2027+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,12 +12,12 @@
 
 ### 💫 About Me
 
-<blockquote>
-  <b>Разработчик, аналитик данных и будущий студент 🚀</b><br>
-  Я активно работаю с данными, создаю интерактивные веб-приложения и интерфейсы, а также углубленно изучаю <b>Data Science</b>, <b>бизнес-аналитику</b> и <b>кибербезопасность</b>.
-</blockquote>
+<div align="center">
+  <p><b>🚀 Разработчик, аналитик данных и будущий студент</b></p>
+  <p>Я активно работаю с данными, создаю современные веб-приложения и интерфейсы,<br>а также углубленно изучаю <b>Data Science</b>, <b>бизнес-аналитику</b> и <b>кибербезопасность</b>.</p>
+</div>
 
-<br>
+---
 
 ### 🚀 Чем я занимаюсь прямо сейчас
 
@@ -64,37 +64,10 @@
 
 ### 🛠 Мой стек и инструменты
 
-#### 📊 Data & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-</p>
-
-#### 💻 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-#### 🛡️ Cybersecurity & Architecture
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network_Security-008080?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
-#### ⚙️ Developer Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,html,css,js,git,github,vscode,linux,bash,postman" />
+  </a>
 </p>
 
 ---
@@ -104,6 +77,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrSherJp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSherJp&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSherJp&theme=tokyonight&hide_border=true" width="98%" />
 </p>
 
 ---
@@ -118,12 +95,12 @@
 
 ### 📬 Контакты и связи
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/MrSherJp">
-    <img src="https://img.shields.io/badge/GitHub-MrSherJp-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-MrSherJp-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:anushervon1999ibragimov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
